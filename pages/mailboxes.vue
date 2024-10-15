@@ -1,0 +1,4 @@
+<template>
+    <MailboxesContent />
+ 
+</template>
